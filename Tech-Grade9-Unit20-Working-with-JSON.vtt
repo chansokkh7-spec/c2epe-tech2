@@ -1,0 +1,98 @@
+WEBVTT
+
+1
+00:00:00.377 --> 00:00:03.825
+Unit twenty. Working with JSON!
+
+2
+00:00:04.816 --> 00:00:10.059
+Hello, everyone! I'm Mr. Daniel, your technology teacher.
+
+3
+00:00:10.109 --> 00:00:13.089
+Hi, Mr. Daniel! What do we learn today?
+
+4
+00:00:13.139 --> 00:00:17.069
+Today we learn about Working with JSON. Let's go!
+
+5
+00:00:18.388 --> 00:00:22.355
+JSON. Say it with me. JSON!
+
+6
+00:00:25.908 --> 00:00:29.367
+Data. Say it with me. Data!
+
+7
+00:00:32.858 --> 00:00:36.325
+Object. Say it with me. Object!
+
+8
+00:00:39.786 --> 00:00:42.953
+Key. Say it with me. Key!
+
+9
+00:00:46.484 --> 00:00:50.210
+Value. Say it with me. Value!
+
+10
+00:00:53.713 --> 00:00:57.277
+Array. Say it with me. Array!
+
+11
+00:01:00.800 --> 00:01:05.034
+API. Say it with me. API!
+
+12
+00:01:08.497 --> 00:01:12.262
+Parse. Say it with me. Parse!
+
+13
+00:01:15.770 --> 00:01:28.377
+JSON is a simple text format for data. It stores an object as key and value pairs and can include an array. Many APIs send JSON, and JavaScript can parse it into usable data.
+
+14
+00:01:28.427 --> 00:01:32.230
+Now I understand. Thank you, Mr. Daniel!
+
+15
+00:01:33.058 --> 00:01:38.469
+Look! What's the word?
+
+16
+00:01:38.519 --> 00:01:39.669
+Object!
+
+17
+00:01:40.648 --> 00:01:46.085
+Look! What's the word?
+
+18
+00:01:46.135 --> 00:01:47.285
+API!
+
+19
+00:01:48.438 --> 00:01:55.133
+Did you know? JSON stands for JavaScript Object Notation, but many other languages use it too!
+
+20
+00:01:55.183 --> 00:01:57.587
+Wow! I did not know that!
+
+21
+00:01:58.659 --> 00:02:08.727
+Think and answer. Why is JSON useful for sharing data between programs?
+
+22
+00:02:08.777 --> 00:02:10.122
+Great answer!
+
+23
+00:02:11.054 --> 00:02:16.494
+Great job today! Keep learning, and see you next time. Goodbye!
+
+24
+00:02:16.544 --> 00:02:19.690
+Goodbye, everyone! See you next time!
+
