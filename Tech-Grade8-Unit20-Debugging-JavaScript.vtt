@@ -1,0 +1,98 @@
+WEBVTT
+
+1
+00:00:00.412 --> 00:00:04.235
+Unit twenty. Debugging JavaScript!
+
+2
+00:00:05.182 --> 00:00:09.694
+Hello, everyone! I'm Mr. Daniel, your technology teacher.
+
+3
+00:00:09.744 --> 00:00:13.536
+Hi, Mr. Daniel! What do we learn today?
+
+4
+00:00:13.586 --> 00:00:17.713
+Today we learn about Debugging JavaScript. Let's go!
+
+5
+00:00:19.018 --> 00:00:23.278
+Debugging. Say it with me. Debugging!
+
+6
+00:00:26.754 --> 00:00:30.654
+Console. Say it with me. Console!
+
+7
+00:00:34.217 --> 00:00:38.338
+Error message. Say it with me. Error message!
+
+8
+00:00:41.801 --> 00:00:45.434
+Breakpoint. Say it with me. Breakpoint!
+
+9
+00:00:48.915 --> 00:00:52.374
+Log. Say it with me. Log!
+
+10
+00:00:55.845 --> 00:00:59.908
+Syntax. Say it with me. Syntax!
+
+11
+00:01:03.466 --> 00:01:06.797
+Logic. Say it with me. Logic!
+
+12
+00:01:10.239 --> 00:01:13.556
+Test. Say it with me. Test!
+
+13
+00:01:17.087 --> 00:01:30.167
+Debugging JavaScript starts with reading the error message in the console. I use a log or a breakpoint to see values. Some bugs are syntax errors; others are logic errors found by testing.
+
+14
+00:01:30.217 --> 00:01:33.877
+Now I understand. Thank you, Mr. Daniel!
+
+15
+00:01:34.637 --> 00:01:39.953
+Look! What's the word?
+
+16
+00:01:40.003 --> 00:01:41.321
+Error message!
+
+17
+00:01:42.259 --> 00:01:47.736
+Look! What's the word?
+
+18
+00:01:47.786 --> 00:01:48.936
+Logic!
+
+19
+00:01:49.868 --> 00:01:56.477
+Did you know? Browser developer tools let you pause JavaScript at a breakpoint and inspect every variable!
+
+20
+00:01:56.527 --> 00:01:58.703
+Wow! I did not know that!
+
+21
+00:02:00.021 --> 00:02:09.408
+Think and answer. What is the difference between a syntax error and a logic error?
+
+22
+00:02:09.458 --> 00:02:10.608
+Great answer!
+
+23
+00:02:11.706 --> 00:02:17.094
+Great job today! Keep learning, and see you next time. Goodbye!
+
+24
+00:02:17.144 --> 00:02:20.221
+Goodbye, everyone! See you next time!
+

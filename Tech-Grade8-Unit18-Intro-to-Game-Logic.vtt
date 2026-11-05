@@ -1,0 +1,98 @@
+WEBVTT
+
+1
+00:00:00.411 --> 00:00:03.868
+Unit eighteen. Intro to Game Logic!
+
+2
+00:00:04.813 --> 00:00:09.254
+Hello, everyone! I'm Mr. Daniel, your technology teacher.
+
+3
+00:00:09.304 --> 00:00:12.833
+Hi, Mr. Daniel! What do we learn today?
+
+4
+00:00:12.883 --> 00:00:16.705
+Today we learn about Intro to Game Logic. Let's go!
+
+5
+00:00:17.833 --> 00:00:21.791
+Game logic. Say it with me. Game logic!
+
+6
+00:00:25.326 --> 00:00:29.526
+State management. Say it with me. State management!
+
+7
+00:00:32.985 --> 00:00:37.779
+Win/lose condition. Say it with me. Win/lose condition!
+
+8
+00:00:41.260 --> 00:00:45.126
+Player action. Say it with me. Player action!
+
+9
+00:00:48.624 --> 00:00:52.224
+Game rule. Say it with me. Game rule!
+
+10
+00:00:55.770 --> 00:01:00.303
+Collision detection. Say it with me. Collision detection!
+
+11
+00:01:03.808 --> 00:01:08.208
+Score tracking. Say it with me. Score tracking!
+
+12
+00:01:11.666 --> 00:01:15.572
+Game flow. Say it with me. Game flow!
+
+13
+00:01:19.072 --> 00:01:28.807
+Game logic manages a game state, checking for a win/lose condition based on player action. Game rules, collision detection, and score tracking control game flow.
+
+14
+00:01:28.857 --> 00:01:32.231
+Now I understand. Thank you, Mr. Daniel!
+
+15
+00:01:33.453 --> 00:01:38.599
+Look! What's the word?
+
+16
+00:01:38.649 --> 00:01:40.205
+Win/lose condition!
+
+17
+00:01:41.192 --> 00:01:46.361
+Look! What's the word?
+
+18
+00:01:46.411 --> 00:01:47.825
+Score tracking!
+
+19
+00:01:48.946 --> 00:01:57.288
+Did you know? 'Collision detection', figuring out when two objects touch in a game, is one of the trickiest parts of game programming!
+
+20
+00:01:57.338 --> 00:01:59.586
+Wow! I did not know that!
+
+21
+00:02:01.074 --> 00:02:10.071
+Think and answer. What is one game rule you would need to program using game logic?
+
+22
+00:02:10.121 --> 00:02:11.271
+Great answer!
+
+23
+00:02:12.386 --> 00:02:18.077
+Great job today! Keep learning, and see you next time. Goodbye!
+
+24
+00:02:18.127 --> 00:02:21.462
+Goodbye, everyone! See you next time!
+
