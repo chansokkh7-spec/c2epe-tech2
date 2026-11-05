@@ -1,0 +1,98 @@
+WEBVTT
+
+1
+00:00:00.429 --> 00:00:04.343
+Unit twenty-three. Web Security Basics!
+
+2
+00:00:05.312 --> 00:00:10.020
+Hello, everyone! I'm Mr. Daniel, your technology teacher.
+
+3
+00:00:10.070 --> 00:00:13.725
+Hi, Mr. Daniel! What do we learn today?
+
+4
+00:00:13.775 --> 00:00:17.859
+Today we learn about Web Security Basics. Let's go!
+
+5
+00:00:19.070 --> 00:00:23.270
+Web security. Say it with me. Web security!
+
+6
+00:00:26.803 --> 00:00:30.136
+Input. Say it with me. Input!
+
+7
+00:00:33.626 --> 00:00:37.726
+Validation. Say it with me. Validation!
+
+8
+00:00:41.235 --> 00:00:45.263
+Injection. Say it with me. Injection!
+
+9
+00:00:48.755 --> 00:00:53.143
+HTTPS. Say it with me. HTTPS!
+
+10
+00:00:56.664 --> 00:01:00.030
+Update. Say it with me. Update!
+
+11
+00:01:03.515 --> 00:01:07.682
+Authentication. Say it with me. Authentication!
+
+12
+00:01:11.216 --> 00:01:15.633
+Least privilege. Say it with me. Least privilege!
+
+13
+00:01:19.101 --> 00:01:31.374
+Web security starts with checking every input with validation to prevent injection attacks. Use HTTPS, keep software updated, protect authentication, and give each user least privilege.
+
+14
+00:01:31.424 --> 00:01:34.824
+Now I understand. Thank you, Mr. Daniel!
+
+15
+00:01:35.508 --> 00:01:40.599
+Look! What's the word?
+
+16
+00:01:40.649 --> 00:01:41.799
+Validation!
+
+17
+00:01:42.907 --> 00:01:48.238
+Look! What's the word?
+
+18
+00:01:48.288 --> 00:01:49.702
+Authentication!
+
+19
+00:01:50.719 --> 00:01:57.835
+Did you know? Injection attacks have long been listed among the most common web application security risks!
+
+20
+00:01:57.885 --> 00:02:00.179
+Wow! I did not know that!
+
+21
+00:02:01.395 --> 00:02:10.345
+Think and answer. Why should websites never trust user input?
+
+22
+00:02:10.395 --> 00:02:11.663
+Great answer!
+
+23
+00:02:12.717 --> 00:02:17.689
+Great job today! Keep learning, and see you next time. Goodbye!
+
+24
+00:02:17.739 --> 00:02:20.698
+Goodbye, everyone! See you next time!
+
