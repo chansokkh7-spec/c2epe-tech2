@@ -1,0 +1,98 @@
+WEBVTT
+
+1
+00:00:00.411 --> 00:00:04.000
+Unit twenty-one. Cloud Architecture Basics!
+
+2
+00:00:04.909 --> 00:00:09.899
+Hello, everyone! I'm Mr. Daniel, your technology teacher.
+
+3
+00:00:09.949 --> 00:00:13.494
+Hi, Mr. Daniel! What do we learn today?
+
+4
+00:00:13.544 --> 00:00:17.905
+Today we learn about Cloud Architecture Basics. Let's go!
+
+5
+00:00:18.871 --> 00:00:22.435
+Cloud. Say it with me. Cloud!
+
+6
+00:00:25.924 --> 00:00:29.557
+Server. Say it with me. Server!
+
+7
+00:00:33.052 --> 00:00:37.173
+Scalability. Say it with me. Scalability!
+
+8
+00:00:40.700 --> 00:00:44.496
+Storage. Say it with me. Storage!
+
+9
+00:00:47.958 --> 00:00:51.823
+Database. Say it with me. Database!
+
+10
+00:00:55.354 --> 00:01:00.276
+Load balancer. Say it with me. Load balancer!
+
+11
+00:01:03.728 --> 00:01:07.489
+Region. Say it with me. Region!
+
+12
+00:01:10.968 --> 00:01:14.513
+Cost. Say it with me. Cost!
+
+13
+00:01:18.052 --> 00:01:30.434
+Cloud architecture plans how a server, storage, and database work together. A load balancer spreads traffic for scalability, a region choice affects speed, and design affects cost.
+
+14
+00:01:30.484 --> 00:01:34.080
+Now I understand. Thank you, Mr. Daniel!
+
+15
+00:01:34.807 --> 00:01:39.889
+Look! What's the word?
+
+16
+00:01:39.939 --> 00:01:41.135
+Scalability!
+
+17
+00:01:42.326 --> 00:01:47.549
+Look! What's the word?
+
+18
+00:01:47.599 --> 00:01:48.749
+Region!
+
+19
+00:01:49.626 --> 00:01:55.962
+Did you know? Cloud providers run data centres in many regions so services stay close to users!
+
+20
+00:01:56.012 --> 00:01:58.323
+Wow! I did not know that!
+
+21
+00:01:59.610 --> 00:02:08.108
+Think and answer. Why might a company choose servers in several regions?
+
+22
+00:02:08.158 --> 00:02:09.308
+Great answer!
+
+23
+00:02:10.363 --> 00:02:15.994
+Great job today! Keep learning, and see you next time. Goodbye!
+
+24
+00:02:16.044 --> 00:02:19.127
+Goodbye, everyone! See you next time!
+
