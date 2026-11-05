@@ -1,0 +1,98 @@
+WEBVTT
+
+1
+00:00:00.433 --> 00:00:04.219
+Unit seven. Understanding Fetch and APIs!
+
+2
+00:00:05.160 --> 00:00:10.265
+Hello, everyone! I'm Mr. Daniel, your technology teacher.
+
+3
+00:00:10.315 --> 00:00:13.249
+Hi, Mr. Daniel! What do we learn today?
+
+4
+00:00:13.299 --> 00:00:17.767
+Today we learn about Understanding Fetch and APIs. Let's go!
+
+5
+00:00:18.995 --> 00:00:23.229
+Fetch API. Say it with me. Fetch API!
+
+6
+00:00:26.765 --> 00:00:31.765
+Asynchronous request. Say it with me. Asynchronous request!
+
+7
+00:00:35.191 --> 00:00:39.958
+JSON response. Say it with me. JSON response!
+
+8
+00:00:43.483 --> 00:00:48.080
+HTTP method. Say it with me. HTTP method!
+
+9
+00:00:51.592 --> 00:00:55.426
+Promise. Say it with me. Promise!
+
+10
+00:00:58.911 --> 00:01:03.264
+Data retrieval. Say it with me. Data retrieval!
+
+11
+00:01:06.794 --> 00:01:12.656
+External data source. Say it with me. External data source!
+
+12
+00:01:16.125 --> 00:01:20.608
+API endpoint. Say it with me. API endpoint!
+
+13
+00:01:24.094 --> 00:01:34.743
+The Fetch API makes an asynchronous request to an API endpoint, retrieving a JSON response. A promise handles data from an external data source using an HTTP method.
+
+14
+00:01:34.793 --> 00:01:38.259
+Now I understand. Thank you, Mr. Daniel!
+
+15
+00:01:39.084 --> 00:01:44.419
+Look! What's the word?
+
+16
+00:01:44.469 --> 00:01:45.963
+JSON response!
+
+17
+00:01:47.202 --> 00:01:52.467
+Look! What's the word?
+
+18
+00:01:52.517 --> 00:01:54.414
+External data source!
+
+19
+00:01:55.544 --> 00:02:03.807
+Did you know? Modern websites often combine data from many different APIs to build one seamless user experience!
+
+20
+00:02:03.857 --> 00:02:05.953
+Wow! I did not know that!
+
+21
+00:02:06.621 --> 00:02:16.931
+Think and answer. Why might a web application need to fetch data from an external API endpoint?
+
+22
+00:02:16.981 --> 00:02:18.131
+Great answer!
+
+23
+00:02:19.276 --> 00:02:24.239
+Great job today! Keep learning, and see you next time. Goodbye!
+
+24
+00:02:24.289 --> 00:02:27.201
+Goodbye, everyone! See you next time!
+
