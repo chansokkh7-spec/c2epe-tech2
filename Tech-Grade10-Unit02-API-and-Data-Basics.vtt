@@ -1,0 +1,98 @@
+WEBVTT
+
+1
+00:00:00.406 --> 00:00:03.587
+Unit two. API and Data Basics!
+
+2
+00:00:04.518 --> 00:00:08.959
+Hello, everyone! I'm Mr. Daniel, your technology teacher.
+
+3
+00:00:09.009 --> 00:00:12.429
+Hi, Mr. Daniel! What do we learn today?
+
+4
+00:00:12.479 --> 00:00:16.249
+Today we learn about API and Data Basics. Let's go!
+
+5
+00:00:17.423 --> 00:00:21.381
+API. Say it with me. API!
+
+6
+00:00:24.878 --> 00:00:29.078
+JSON. Say it with me. JSON!
+
+7
+00:00:32.512 --> 00:00:36.212
+Endpoint. Say it with me. Endpoint!
+
+8
+00:00:39.748 --> 00:00:43.415
+Request. Say it with me. Request!
+
+9
+00:00:46.921 --> 00:00:51.087
+Response. Say it with me. Response!
+
+10
+00:00:54.601 --> 00:00:59.500
+Authentication key. Say it with me. Authentication key!
+
+11
+00:01:02.980 --> 00:01:06.780
+Rate limit. Say it with me. Rate limit!
+
+12
+00:01:10.266 --> 00:01:14.750
+Data format. Say it with me. Data format!
+
+13
+00:01:18.274 --> 00:01:34.484
+An API lets one program talk to another, often exchanging data in JSON format. Sending a request to an endpoint returns a response, sometimes requiring an authentication key. A rate limit controls how often a program can make a request.
+
+14
+00:01:34.534 --> 00:01:38.085
+Now I understand. Thank you, Mr. Daniel!
+
+15
+00:01:38.811 --> 00:01:44.228
+Look! What's the word?
+
+16
+00:01:44.278 --> 00:01:45.428
+Endpoint!
+
+17
+00:01:46.405 --> 00:01:51.655
+Look! What's the word?
+
+18
+00:01:51.705 --> 00:01:52.855
+Rate limit!
+
+19
+00:01:53.753 --> 00:02:01.235
+Did you know? When a weather app shows you the forecast, it's usually using an API to fetch that data from a weather service!
+
+20
+00:02:01.285 --> 00:02:03.449
+Wow! I did not know that!
+
+21
+00:02:04.882 --> 00:02:13.640
+Think and answer. Can you think of an app that probably uses an API to work?
+
+22
+00:02:13.690 --> 00:02:14.840
+Great answer!
+
+23
+00:02:15.976 --> 00:02:21.030
+Great job today! Keep learning, and see you next time. Goodbye!
+
+24
+00:02:21.080 --> 00:02:24.056
+Goodbye, everyone! See you next time!
+
